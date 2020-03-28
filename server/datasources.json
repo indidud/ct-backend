@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "ct-db": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "",
+    "database": "ct-database",
+    "password": "password",
+    "name": "ct-db",
+    "user": "postgres",
+    "connector": "postgresql"
+  }
+}
